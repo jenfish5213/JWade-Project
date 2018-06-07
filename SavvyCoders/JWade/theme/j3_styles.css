@@ -50,12 +50,13 @@
 }
 
 #header {
-  padding: 25px;
-  margin: 20px;
-  font-size: 40px;
+  padding: 0px;
+  margin: 0px;
+  font-size: 4vw;
+ -webkit-text-stroke: 1px ;
 }
 #content {
-  padding: 50px;
-  margin: 40px;
+  padding: 0px;
+  margin: 0px;
   border: solid
 }
